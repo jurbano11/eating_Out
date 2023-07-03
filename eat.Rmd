@@ -104,3 +104,11 @@ We have a low p value .000002287. The Chi-square statistics s is 25.9769
 ```{r}
 fisherXY(mydata$race,mydata$eatout, printAll = TRUE)
 ```
+The p value of white is greater than 0.05. The p value is lower for black . The white and the black have difference of 2.2 eating out. Fisher xy is the analog to tuki HD. The odds between black and white is somewhere were 0 is between 0.4 and 1.49 and zero is in the middle. this two methods are very similar to each other.
+
+
+
+
+
+
+
