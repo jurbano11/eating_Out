@@ -68,6 +68,14 @@ basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
 
+The one on the left is by count and the one in the right is by %
+
+
+
+
+
+
+
 ```{r}
 table1 <- xtabs(~race + eatout, data=mydata)
 rowPerc(table1)
