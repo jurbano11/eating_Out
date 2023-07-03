@@ -81,6 +81,13 @@ table1 <- xtabs(~race + eatout, data=mydata)
 rowPerc(table1)
 colPerc(table1)
 ```
+We have numerical result % is the top table the white people are in out. Almost 70% black were eating out, and 28 people eat in. The other race were the smallest and the black is in the middle, just the white group was was eating out more and had the highest %.
+
+
+
+
+
+
 
 ```{r}
 chisq.test(table1)
