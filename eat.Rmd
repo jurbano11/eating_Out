@@ -110,5 +110,8 @@ The p value of white is greater than 0.05. The p value is lower for black . The 
 
 
 
+#conclusion 
+
+today we learned to work with FisherXY and get variables from the STATA from the GSS/norc. I got to see real data that is always uploaded. It was very satisfying to complete the whole assignment and see the final result. I was introduce to STATA, SPSS, and SAS from NORC. I know i can get real data from this university and utilized the different formats. We used for today work a barchart, a ggplot, the numerical data and the fisherXY. I also utilized the helper fie cat~cat.
 
 
