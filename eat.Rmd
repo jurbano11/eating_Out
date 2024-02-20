@@ -20,6 +20,9 @@ $H_A$ There is a statistical difference between at least two races with the freq
 
 #Methods
 
+Viewing the data and taking into consideration the problem, we are comparing different categorical data types. The cat~cat helper file will be used to answer the questions and find answers
+
+
 ```{r include=FALSE,echo=FALSE}
 source(file="fisherXY.R")
 require(tidyverse)
