@@ -79,7 +79,7 @@ The one on the left is by count and the one in the right is by %
 
 
 
-
+#Numerical
 
 ```{r}
 table1 <- xtabs(~race + eatout, data=mydata)
