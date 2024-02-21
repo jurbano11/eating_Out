@@ -44,7 +44,7 @@ mydata <-na.omit(mydata)
 
 
 
-
+#plots
 
 ```{r}
 barchartGC(~race + eatout,data=mydata)
