@@ -93,7 +93,7 @@ We have numerical result % is the top table the white people are in out. Almost 
 
 
 
-
+#Inferential
 ```{r}
 chisq.test(table1)
 chisqtestGC(table1)
